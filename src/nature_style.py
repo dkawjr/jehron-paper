@@ -115,8 +115,9 @@ def set_style():
         "savefig.dpi": 600,
         "savefig.bbox": "tight",
         "savefig.pad_inches": 0.02,
-        "pdf.fonttype": 42,   # embed TrueType (editable text in Illustrator)
+        "pdf.fonttype": 42,    # embed TrueType (editable text in Illustrator)
         "ps.fonttype": 42,
+        "svg.fonttype": "none",  # keep SVG text as editable <text>, not paths
         "legend.frameon": False,
     })
     return font
@@ -129,8 +130,8 @@ def panel_label(ax, letter, x=-0.16, y=1.04):
 
 
 def save(fig, name):
-    """Save both vector PDF and 600-dpi PNG."""
-    for ext in ("pdf", "png"):
+    """Save vector SVG + PDF and 600-dpi PNG."""
+    for ext in ("svg", "pdf", "png"):
         fig.savefig(FIGS / f"{name}.{ext}")
     plt.close(fig)
-    print(f"  saved figures/{name}.pdf + .png")
+    print(f"  saved figures/{name}.svg + .pdf + .png")

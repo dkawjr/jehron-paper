@@ -48,9 +48,10 @@ hsct-enteric-figures/
 └── figures/                   # output (PDF + PNG)
 ```
 
-Outputs are saved as **both** vector `.pdf` (for journal submission / Illustrator
-editing) and 600-dpi `.png` (for slides and quick viewing). Text is embedded as
-editable TrueType (`pdf.fonttype = 42`).
+Outputs are saved in three formats: vector **`.svg`** and **`.pdf`** (for journal
+submission / editing in Illustrator or Inkscape) and 600-dpi **`.png`** (for
+slides and quick viewing). Text stays editable in all vector outputs
+(`pdf.fonttype = 42`, `svg.fonttype = none`).
 
 ---
 

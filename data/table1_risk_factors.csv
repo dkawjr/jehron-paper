@@ -1,0 +1,11 @@
+variable,exposed,reference,exp_pos,exp_neg,ref_pos,ref_neg
+Male sex,Male,Female,25,20,16,29
+No GVHD (<100d),No GVHD,GVHD,35,30,6,19
+Pre-colonization,Prior GI-PCR+,No prior GI-PCR,12,9,29,40
+Prior C. difficile,Prior C.diff+,No prior C.diff,6,7,35,42
+Hypogammaglobulinemia,IgG 200-700,Normal IgG,12,19,29,30
+Neutropenia,Neutropenic,Normal ANC,4,7,37,42
+Allograft,Allograft,Autograft,20,33,20,16
+PPI use,PPI,No PPI,24,38,17,11
+Chemotherapy + TBI,Chemo+TBI,Other cond.,5,14,36,35
+Hospitalized,Hospitalized,Not hospitalized,21,36,20,13

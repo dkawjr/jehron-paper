@@ -1,0 +1,7 @@
+variable,level,hr,ci_low,ci_high,is_reference
+Sex,Male (ref),1.0,,,1
+Sex,Female,0.48,0.26,0.9,0
+GVHD <100d,GVHD (ref),1.0,,,1
+GVHD <100d,No GVHD,2.59,1.12,5.96,0
+Hospitalization,Hospitalized (ref),1.0,,,1
+Hospitalization,Not hospitalized,1.62,0.86,3.03,0

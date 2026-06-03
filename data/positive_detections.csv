@@ -1,0 +1,48 @@
+day_post_sct,pathogen,category
+104,E. coli,Bacteria
+114,E. coli,Bacteria
+118,Cryptosporidium,Parasite
+118,E. coli,Bacteria
+144,Cryptosporidium,Parasite
+168,Norovirus,Virus
+168,Cryptosporidium,Parasite
+170,Adenovirus,Virus
+172,Salmonella,Bacteria
+179,Norovirus,Virus
+202,Giardia,Parasite
+225,Norovirus,Virus
+225,Cryptosporidium,Parasite
+229,Yersinia,Bacteria
+242,Norovirus,Virus
+242,Norovirus,Virus
+242,E. coli,Bacteria
+242,E. coli,Bacteria
+259,C. difficile,Bacteria
+261,Cryptosporidium,Parasite
+261,E. coli,Bacteria
+272,E. coli,Bacteria
+294,E. coli,Bacteria
+309,Rotavirus,Virus
+336,E. coli,Bacteria
+370,Other,Other
+400,Rotavirus,Virus
+410,C. difficile,Bacteria
+420,E. coli,Bacteria
+468,E. coli,Bacteria
+474,E. coli,Bacteria
+474,Yersinia,Bacteria
+514,E. coli,Bacteria
+529,Cryptosporidium,Parasite
+530,Norovirus,Virus
+549,Norovirus,Virus
+688,Norovirus,Virus
+725,C. difficile,Bacteria
+784,Norovirus,Virus
+804,E. coli,Bacteria
+804,C. difficile,Bacteria
+882,E. coli,Bacteria
+907,Giardia,Parasite
+1101,Sapovirus,Virus
+1222,Norovirus,Virus
+1329,E. coli,Bacteria
+1896,E. coli,Bacteria

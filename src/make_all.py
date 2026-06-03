@@ -17,6 +17,11 @@ MODULES = [
     "fig7_forest_table1",
     "fig8_pathogen_heatmap",
     "fig9_cumulative_accrual",
+    "fig10_event_dotstrip",
+    "fig11_consort_flow",
+    "fig12_composite_spectrum",
+    "fig13_composite_riskfactors",
+    "fig14_wilson_proportions",
 ]
 
 

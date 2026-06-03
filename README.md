@@ -48,10 +48,11 @@ hsct-enteric-figures/
 └── figures/                   # output (PDF + PNG)
 ```
 
-Outputs are saved in three formats: vector **`.svg`** and **`.pdf`** (for journal
-submission / editing in Illustrator or Inkscape) and 600-dpi **`.png`** (for
-slides and quick viewing). Text stays editable in all vector outputs
-(`pdf.fonttype = 42`, `svg.fonttype = none`).
+Running the scripts produces three formats locally — vector **`.svg`** and
+**`.pdf`** and 600-dpi **`.png`** — with editable text in the vector outputs
+(`pdf.fonttype = 42`, `svg.fonttype = none`). **Only the `.svg` files are tracked
+in git;** the `.png`/`.pdf` are git-ignored and regenerated on demand with
+`python src/make_all.py`.
 
 ---
 
@@ -75,6 +76,14 @@ slides and quick viewing). Text stays editable in all vector outputs
 | **7** | `Figure7_forest_table1_unadjusted` | **Forest plot of unadjusted odds ratios** (Table 1). Turns a dense table into a visual ranking of risk factors with 95% CIs. |
 | **8** | `Figure8_pathogen_time_heatmap` | Compact **pathogen × time heatmap** — an elegant matrix alternative to the stacked bars. |
 | **9** | `Figure9_cumulative_accrual` | **Cumulative accrual step plot** using exact event days (no binning). Directly shows parasites/viruses plateauing early while bacteria keep accruing. |
+| **10** | `Figure10_event_dotstrip` | **Raw-event dot-strip** — all 47 detections by exact day, one row per pathogen. Shows every data point with no binning. |
+| **11** | `Figure11_consort_flow` | **Study-flow (CONSORT) diagram** (373 → 90 → 41/49). |
+| **12** | `Figure12_composite_spectrum` | **Composite A** — spectrum + timing in one figure (bar, dot-strip, cumulative accrual). |
+| **13** | `Figure13_composite_riskfactors` | **Composite B** — unadjusted OR forest beside the adjusted Cox forest. |
+| **14** | `Figure14_wilson_proportions` | **Proportions with Wilson 95% CIs** — positivity and pathogen-type composition with honest interval estimates. |
+
+Captions for every figure are in **`FIGURE_CAPTIONS.md`**; my rationale for each
+added figure (and what I left out and why) is in **`FIGURE_NOTES.md`**.
 
 ---
 

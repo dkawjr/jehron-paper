@@ -15,3 +15,7 @@ Thumbs.db
 # Scratch
 _*.py
 *.tmp
+
+# Figure outputs: track only SVG; png/pdf are regenerated on demand
+figures/*.png
+figures/*.pdf

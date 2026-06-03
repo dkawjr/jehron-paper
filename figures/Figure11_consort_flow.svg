@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="266.502047pt" height="225.513071pt" viewBox="0 0 266.502047 225.513071" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-06-02T20:33:53.404677</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 225.513071 
+L 266.502047 225.513071 
+L 266.502047 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 40.456063 39.732888 
+L 173.321575 39.732888 
+Q 178.594016 39.732888 178.594016 35.280227 
+L 178.594016 12.126387 
+Q 178.594016 7.673726 173.321575 7.673726 
+L 40.456063 7.673726 
+Q 35.183622 7.673726 35.183622 12.126387 
+L 35.183622 35.280227 
+Q 35.183622 39.732888 40.456063 39.732888 
+z
+" clip-path="url(#p6ee98e4a55)" style="fill: #eaf1f8; stroke: #0072b2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 40.456063 102.070148 
+L 173.321575 102.070148 
+Q 178.594016 102.070148 178.594016 97.617487 
+L 178.594016 74.463647 
+Q 178.594016 70.010986 173.321575 70.010986 
+L 40.456063 70.010986 
+Q 35.183622 70.010986 35.183622 74.463647 
+L 35.183622 97.617487 
+Q 35.183622 102.070148 40.456063 102.070148 
+z
+" clip-path="url(#p6ee98e4a55)" style="fill: #eaf1f8; stroke: #0072b2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 174.903307 73.127849 
+L 260.31685 73.127849 
+Q 265.589291 73.127849 265.589291 68.675187 
+L 265.589291 41.068687 
+Q 265.589291 36.616025 260.31685 36.616025 
+L 174.903307 36.616025 
+Q 169.630866 36.616025 169.630866 41.068687 
+L 169.630866 68.675187 
+Q 169.630866 73.127849 174.903307 73.127849 
+z
+" clip-path="url(#p6ee98e4a55)" style="fill: #f5f5f5; stroke: #999999; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 11.457638 179.991723 
+L 96.871181 179.991723 
+Q 102.143622 179.991723 102.143622 175.539061 
+L 102.143622 147.932561 
+Q 102.143622 143.479899 96.871181 143.479899 
+L 11.457638 143.479899 
+Q 6.185197 143.479899 6.185197 147.932561 
+L 6.185197 175.539061 
+Q 6.185197 179.991723 11.457638 179.991723 
+z
+" clip-path="url(#p6ee98e4a55)" style="fill: #fbede4; stroke: #d55e00; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 127.451339 177.765392 
+L 202.32 177.765392 
+Q 207.592441 177.765392 207.592441 173.312731 
+L 207.592441 150.158891 
+Q 207.592441 145.70623 202.32 145.70623 
+L 127.451339 145.70623 
+Q 122.178898 145.70623 122.178898 150.158891 
+L 122.178898 173.312731 
+Q 122.178898 177.765392 127.451339 177.765392 
+z
+" clip-path="url(#p6ee98e4a55)" style="fill: #f5f5f5; stroke: #999999; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 106.888819 135.019843 
+L 106.888819 135.019843 
+" clip-path="url(#p6ee98e4a55)" style="fill: none"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 7.2px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(52.933256 21.705982)">373 HSCT recipients with medical</text>
+    <text style="font-size: 7.2px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(58.064381 29.426632)">records reviewed (2020–2025)</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7.2px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(55.467319 84.010054)">90 patients met inclusion criteria</text>
+    <text style="font-size: 7.2px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(44.773631 91.730704)">(GI multiplex-PCR &gt; 100 d post-HSCT)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7.2px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(196.194579 45.0679)">283 excluded</text>
+    <text style="font-size: 7.2px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(181.593204 52.78855)">(did not meet inclusion</text>
+    <text style="font-size: 7.2px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(178.798141 60.593575)">criteria / lost to follow-up</text>
+    <text style="font-size: 7.2px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(185.498079 68.314225)">&lt; 100 d post-HSCT)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.2px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(12.752034 159.748949)">41 (46%) positive GI-PCR</text>
+    <text style="font-size: 7.2px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(16.736784 167.448674)">47 pathogen detections</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.2px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(135.669419 159.791136)">49 (54%) negative</text>
+    <text style="font-size: 7.2px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(152.285669 167.490861)">GI-PCR</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 106.888819 39.057162 
+Q 106.888819 54.870386 106.888819 69.565577 
+" style="fill: none; stroke: #555555; stroke-linecap: round"/>
+    <path d="M 108.488819 66.365577 
+L 106.888819 69.565577 
+L 105.288819 66.365577 
+z
+" style="fill: #555555; stroke: #555555; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 108.888028 50.554345 
+Q 139.844594 52.64581 169.685668 54.661912 
+" style="fill: none; stroke: #555555; stroke-linecap: round"/>
+    <path d="M 166.600799 52.849847 
+L 169.685668 54.661912 
+L 166.385094 56.042568 
+z
+" style="fill: #555555; stroke: #555555; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 106.888819 101.396052 
+Q 106.888819 110.527045 106.888819 118.540003 
+" style="fill: none; stroke: #555555; stroke-linecap: round"/>
+    <path d="M 108.488819 115.340003 
+L 106.888819 118.540003 
+L 105.288819 115.340003 
+z
+" style="fill: #555555; stroke: #555555; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 105.019136 126.825059 
+Q 80.527607 136.132631 57.081186 145.043027 
+" style="fill: none; stroke: #555555; stroke-linecap: round"/>
+    <path d="M 60.640852 145.401884 
+L 57.081186 145.043027 
+L 59.50407 142.410608 
+z
+" style="fill: #555555; stroke: #555555; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 108.754318 126.830631 
+Q 135.886413 137.245854 161.974735 147.260404 
+" style="fill: none; stroke: #555555; stroke-linecap: round"/>
+    <path d="M 159.560682 144.619883 
+L 161.974735 147.260404 
+L 158.413887 147.607333 
+z
+" style="fill: #555555; stroke: #555555; stroke-linecap: round"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p6ee98e4a55">
+   <rect x="1.44" y="1.44" width="263.622047" height="222.633071"/>
+  </clipPath>
+ </defs>
+</svg>
